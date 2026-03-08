@@ -1,0 +1,17 @@
+streamlit
+google-genai
+pandas
+plotly
+reportlab
+Pillow
+yfinance
+numpy
+python-dotenv
+pymupdf
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+chromadb
+kaleido
